@@ -1,0 +1,15 @@
+{
+  "name": "social-login-nativescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "nativescript": {
+    "platforms": {
+      "android": "2.0.0",
+      "ios": "2.0.0"
+    }
+  },
+  "keywords": [],
+  "author": "Almond Joseph Mendoza",
+  "license": "MIT"
+}
